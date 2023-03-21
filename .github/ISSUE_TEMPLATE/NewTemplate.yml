@@ -2,7 +2,7 @@ name: SBP New -Bug Report
 description: File a bug report
 title: "[Bug New]: "
 labels: ["bug", "triage"]
-Projects :[1]
+Projects: [1]
 assignees:
   - octocat
 body:
